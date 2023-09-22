@@ -1,0 +1,8 @@
+diff --git a/dist/proto/evmos/vesting/tx.js b/dist/proto/evmos/vesting/tx.js
+index 5fde659a3e2200278ba5fc21dff7a4a9b6afe765..1870f38bd8ac1e42d34f73bd95a1bf5aa1f579da 100644
+--- a/dist/proto/evmos/vesting/tx.js
++++ b/dist/proto/evmos/vesting/tx.js
+@@ -1,2 +1,2 @@
+-export * from '@buf/evmos_evmos.bufbuild_es/evmos/vesting/v1/tx_pb.js';
++export * from '@buf/evmos_evmos.bufbuild_es/evmos/vesting/v2/tx_pb.js';
+ //# sourceMappingURL=tx.js.map
