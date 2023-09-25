@@ -25,7 +25,7 @@ export * from '@buf/evmos_evmos.bufbuild_es/evmos/vesting/v1/tx_pb.js';
 should be changed to
 
 ```
-export * from '@buf/evmos_evmos.bufbuild_es/evmos/vesting/v1/tx_pb.js';
+export * from '@buf/evmos_evmos.bufbuild_es/evmos/vesting/v2/tx_pb.js';
 ```
 
 ## Execute
